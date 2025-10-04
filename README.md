@@ -49,7 +49,7 @@
 ## 🚀 Featured Open Source Projects
 
 
-- 💻 [**Animate_IT (LSAC-ONG)**][(https://github.com/LSAC-ONG/Animate_IT)](https://github.com/LSAC-ONG/Animate_IT/commits/main/?author=anamarias12). — Learning project focused on frontend animations and interactive UI dynamics.  
+- 💻 [**Animate_IT (LSAC-ONG)**][(https://github.com/LSAC-ONG/Animate_IT)] — Learning project focused on frontend animations and interactive UI dynamics.  
 - 🗺️ [**TreasureHunt (LSAC-ONG)**](https://github.com/LSAC-ONG/TreasureHunt) — A team-based challenge built for LSAC, combining puzzles, riddles and fun locations.  
 - ♾️ [**Perpetuum (LSAC-ONG)**](https://github.com/LSAC-ONG/Perpetuum) — Website for a team-based engineering contest that rewards creativity and ambition.  
 - 🔐 [**rencfs**](https://github.com/xoriors/rencfs) — Encryption filesystem written in Rust, focusing on secure data storage.  
