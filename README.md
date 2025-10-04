@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ana-Maria Șerbănoiu
 
-🎓 Third-year student at **UPB – CTI**, passionate about software engineering, full-stack development, cybersecurity, networking and learning new things.  
+🎓 Third-year student at **UPB - CTI**, passionate about software engineering, full-stack development, cybersecurity, networking and learning new things.  
 
 ---
 
