@@ -36,11 +36,6 @@ Third-year student at **Politehnica University of Bucharest - Faculty of Automat
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anamarias12&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamarias12&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=anamarias12&theme=tokyonight&hide_border=false" />
 </p>
 
